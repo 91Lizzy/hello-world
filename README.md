@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+My name is Lizzy,
+I love math and programming
